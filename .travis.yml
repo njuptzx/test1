@@ -1,1 +1,8 @@
-lalalalall
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+  printf("冲啊！！！")
+  return 0;
+}
